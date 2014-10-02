@@ -10,7 +10,21 @@ License: GPL v2.0 (see LICENSE)
 * PyYAML 3
 * OpenCV 2
 * Python-Xlib 0.12+
+* Gnome-Common
 
+## Installing Dependencies
+
+### Using Fedora
+    
+    Fedora uses the "yum" command to install packages.
+    Example:
+        Sudo yum install <package-name> <package-name> 
+
+### Using Ubuntu
+
+    Ubuntu uses the sudo command to install packages.
+    Example:
+        Sudo apt-get install <package-name> <package-name>
 
 ## Download
 
